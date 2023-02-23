@@ -188,6 +188,9 @@
 
   .card {
     padding: 1rem 2.5rem;
+    margin:20px ;
+    background: rgba(var(--card-rgb), 0.1);
+    border: 1px solid rgba(var(--card-border-rgb), 0.15);
   }
 
   .card h2 {
